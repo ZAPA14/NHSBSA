@@ -1,0 +1,3 @@
+steps\CheckerToolSteps.class
+appHooks\ApplicationHooks.class
+TestRunner.class
